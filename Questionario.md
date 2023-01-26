@@ -14,3 +14,5 @@
   5 - O que é um VCS?
 		Software de controle de versão.
 
+  6 - O que é push?
+		Enviar as informações que foram empacotadas para o repositório remoto.
